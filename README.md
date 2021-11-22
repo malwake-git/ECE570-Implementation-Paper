@@ -5,6 +5,19 @@ This repository is created to explain the running code behind the paper for the 
 ## First Introduction:-
  
 The code introduces a network for estimating depth maps from a light field (LF) image. The model proposes a selection module that generates an attention map indicating the importance of each light field scene view and creates a disparity estimation based on it. The model contributes to the field of creating accurate depth estimation for LF images.
+
+### Files:
+1- LFattNet_evalution.py (LFattNet - modified)
+2- LFattNet_train.py (LFattNet - modified)
+3- func_generate_traindata_noise.py (LFattNet - modified)
+4- func_makeinput.py (LFattNet - modified)
+5- func_model_81.py (LFattNet - modified)
+6- func_pfm.py (LFattNet - original)
+7- func_savedata.py (LFattNet - original)
+8- util.py (LFattNet - original)
+9- LFNatt.ipynb (Train & Test - Preliminary)
+10- LFNatt_dataset2.ipynb (Train & Test - Final)
+
  
 ## Second Implementation & Adjustment:-
 
@@ -27,8 +40,7 @@ Cudnn 8.1
 
 ### Adjustments:
 The following changes were made in order to satisfy the above implementation requirements:
-```
-```
+
 #### LFattNet_train.py
 
 * Functions (myGenerator, generate_traindata_for_train, data_augmentation_for_train) were adjusted to accept one invalid scene argument (Lines 88 - 93, 76 - 78, 243 - 244).
@@ -37,17 +49,26 @@ The following changes were made in order to satisfy the above implementation req
 
 * Adjusted input dataset (Lines 165 - 174, 183 - 189, 195 - 200)
 
+```
+```
+
 #### LFattNet_evalution.py
 
 * Adjusted input dataset (Lines 66 - 75)
 
 * Eliminate version conversion errors (Lines 115 - 116, 120 - 121)
 
+```
+```
+
 #### func_generate_traindata_noise.py
 
 * Functions (generate_traindata_for_train) were adjusted to accept one invalid scene argument (Lines 7 - 8).
 
 * Introduced new aa_arr array to create random selection array based on the shape of the given dataset for training (Line 69, 91).
+
+```
+```
 
 #### func_model_81.py
 
