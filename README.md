@@ -103,5 +103,6 @@ After downloading the desired scene, extract the LF dataset inside the 'hci_data
 * You may use the model created from training or use the pre-trained model 'pretrain_model_9x9.hdf5'
 * To change the model for evaluation: change ``` path_weight= ""``` inside ('LFattNet_evalution.py' Line 84) to your desired model.
 
+## Fourth Implementation Goal:-
 
-
+The main goal of this project was to test the given algorithm over different LF datasets and compare the final metric performance results of the network. Secondary objectives included adjusting the imported source code to utilize limited resources running machines, eliminating all warnings and errors, and employing up-to-date environment tools' versions.
