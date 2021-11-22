@@ -86,7 +86,7 @@ The following changes were made in order to satisfy the above implementation req
 The dataset used in the implementation is the HCI 4D Light Field, to download:
 http://hci-lightfield.iwr.uni-heidelberg.de/
 
-$Note: the scene dataset names used for training and/or testing can be found inside LFNatt_dataset2.ipynb and LFNatt.ipynb$
+Note: the scene dataset names used for training and/or testing can be found inside LFNatt_dataset2.ipynb and LFNatt.ipynb
 
 After downloading the desired scene, extract the LF dataset inside the 'hci_dataset/'. (additional/, training/, test/, stratified/)
 
@@ -100,7 +100,7 @@ After downloading the desired scene, extract the LF dataset inside the 'hci_data
 ### Testing:
 * Uncomment line 253 in 'LFattNet_func/func_model_81.py', and comment line 250.
 * Run python LFattNet_evalution.py (as in the notebooks)
-* $You may use the model created from training, or use the pretrained model 'pretrain_model_9x9.hdf5'$
+* You may use the model created from training or use the pre-trained model 'pretrain_model_9x9.hdf5'
 * To change the model for evaluation: change ``` path_weight= ""``` inside ('LFattNet_evalution.py' Line 84) to your desired model.
 
 
