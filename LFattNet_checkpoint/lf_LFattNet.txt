@@ -1,0 +1,120 @@
+
+2021-10-15 06:25:50.777603
+
+
+2021-10-16 22:12:16.266308
+
+
+2021-10-16 23:53:16.509904
+
+
+2021-10-17 05:49:53.829938
+
+
+2021-11-14 11:21:28.326118
+
+
+2021-11-14 11:49:30.266773
+
+
+2021-11-14 12:10:57.172227
+
+
+2021-11-14 20:06:46.889712
+
+
+2021-11-16 23:10:44.581215
+
+
+2021-11-16 23:18:16.185045
+
+
+2021-11-17 00:53:59.179627
+
+
+2021-11-17 01:00:23.239444
+
+
+2021-11-17 01:04:48.701306
+
+
+2021-11-17 07:01:54.545432
+
+
+2021-11-17 07:12:15.338316
+
+
+2021-11-17 07:16:17.454331
+
+
+2021-11-17 07:20:40.737823
+
+
+2021-11-17 07:34:21.397292
+
+
+2021-11-17 07:47:02.969677
+
+
+2021-11-17 07:52:56.398989
+
+
+2021-11-17 07:57:29.221987
+
+
+2021-11-17 16:02:10.215427
+
+
+2021-11-17 16:10:49.133662
+
+
+2021-11-17 16:13:52.713719
+
+
+2021-11-17 16:44:02.213441
+
+
+2021-11-17 17:39:48.221917
+
+
+2021-11-17 18:24:36.151795
+
+
+2021-11-17 18:59:42.392407
+
+.LFattNet_checkpoint/LFattNet_ckp/iter0001_valmse594.060_bp100.00.hdf5
+.LFattNet_checkpoint/LFattNet_ckp/iter0002_valmse1905.804_bp100.00.hdf5
+.LFattNet_checkpoint/LFattNet_ckp/iter0003_valmse545.349_bp100.00.hdf5
+
+2021-11-17 21:15:01.797083
+
+.LFattNet_checkpoint/LFattNet_ckp/iter0001_valmse1343.691_bp100.00.hdf5
+.LFattNet_checkpoint/LFattNet_ckp/iter0002_valmse1369.513_bp100.00.hdf5
+
+2021-11-17 23:44:58.250355
+
+.LFattNet_checkpoint/LFattNet_ckp/iter0001_valmse365.862_bp100.00.hdf5
+.LFattNet_checkpoint/LFattNet_ckp/iter0002_valmse938.675_bp100.00.hdf5
+.LFattNet_checkpoint/LFattNet_ckp/iter0003_valmse736.552_bp100.00.hdf5
+
+2021-11-18 01:37:04.819121
+
+
+2021-11-18 01:41:55.109304
+
+.LFattNet_checkpoint/LFattNet_ckp/iter0004_valmse736.552_bp100.00.hdf5
+.LFattNet_checkpoint/LFattNet_ckp/iter0001_valmse696.323_bp100.00.hdf5
+
+2021-11-18 02:38:57.307677
+
+.LFattNet_checkpoint/LFattNet_ckp/iter0001_valmse62.247_bp100.00.hdf5
+.LFattNet_checkpoint/LFattNet_ckp/iter0002_valmse106.908_bp94.90.hdf5
+.LFattNet_checkpoint/LFattNet_ckp/iter0003_valmse525.188_bp99.97.hdf5
+.LFattNet_checkpoint/LFattNet_ckp/iter0002_valmse736.552_bp100.00.hdf5
+.LFattNet_checkpoint/LFattNet_ckp/iter0003_valmse736.264_bp100.00.hdf5
+
+2021-11-18 10:11:20.638248
+
+.LFattNet_checkpoint/LFattNet_ckp/iter0001_valmse37.483_bp95.09.hdf5
+.LFattNet_checkpoint/LFattNet_ckp/iter0002_valmse849.931_bp100.00.hdf5
+.LFattNet_checkpoint/LFattNet_ckp/iter0003_valmse843.069_bp100.00.hdf5
