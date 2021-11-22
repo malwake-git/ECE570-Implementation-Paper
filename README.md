@@ -29,7 +29,7 @@ The code introduces a network for estimating depth maps from a light field (LF) 
 * Removed all unwanted warnings
 
 ### Environment:
-The current code works on the following tools' versions
+The current code works on the following versions:
 ```
 Python 3.6.0 & above
 Tensorflow 2.x.x
